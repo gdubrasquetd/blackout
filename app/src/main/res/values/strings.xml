@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BlackOut</string>
+    <string name="job_done">Job Done</string>
+    <string name="MailText">GalleyLaCorp@gmail.com</string>
+    <string name="shop_text1">Rien à vendre ici, tout est GRATUIT !</string>
+    <string name="shop_text2">Mais si tu souhaites nous soutenir tu peux laisser une bonne note et un commentaire sur le PlayStore !
+       \n Si tu as envie tu peux également nous partager tes idées d\'améliorations, d\'actions, de vérités ou d\'événements.
+       \n Pour cela tu peux cliquer sur les icônes ci-dessous:
+    </string>
+    <string name="version">®GLCorp v3.2.6</string>
+    <string name="Fait">C\'EST FAIT !</string>
+    <string name="jouer">JOUER</string>
+    <string name="dilem_text1">Faites un décompte, au bout de 3 ceux qui choisissent la 1ere option lèvent la main, ceux qui préfèrent la 2ème baisse la main. \n La minorité boit 2 gorgées !! (En cas d\'égalité tout le monde en boit une)</string>
+</resources>

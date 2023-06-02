@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/duelgif1"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif2"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif3"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif4"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif5"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif6"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif7"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif8"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif9"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif10"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif11"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif12"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif13"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif14"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif15"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif16"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif17"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif18"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif19"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif20"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif21"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif22"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif23"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif24"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif25"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif26"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif27"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif28"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif29"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif30"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/duelgif31"
+        android:duration="800" />
+
+</animation-list>

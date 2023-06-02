@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/rolegif1"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/rolegif2"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/rolegif3"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/rolegif4"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/rolegif12"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/rolegif3"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/rolegif11"
+        android:duration="300" />
+    <item
+        android:drawable="@drawable/rolegif6"
+        android:duration="300" />
+    <item
+        android:drawable="@drawable/rolegif4"
+        android:duration="300" />
+    <item
+        android:drawable="@drawable/rolegif7"
+        android:duration="300" />
+    <item
+        android:drawable="@drawable/rolegif5"
+        android:duration="400" />
+    <item
+        android:drawable="@drawable/rolegif1"
+        android:duration="400" />
+    <item
+        android:drawable="@drawable/rolegif2"
+        android:duration="400" />
+    <item
+        android:drawable="@drawable/rolegif8"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/rolegif12"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/rolegif5"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/rolegif10"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/rolegif8"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/rolegif1"
+        android:duration="600" />
+    <item
+        android:drawable="@drawable/rolegif9"
+        android:duration="600" />
+
+</animation-list>

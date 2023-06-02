@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".PlayerPage">
+
+
+    <Button
+        android:id="@+id/jouer"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/button"
+        android:text="@string/jouer"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHeight_percent="0.1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollView2"
+        app:layout_constraintWidth_percent="0.40" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:fadingEdge="none"
+        android:isScrollContainer="false"
+        android:keepScreenOn="false"
+        android:overScrollMode="never"
+        android:scrollbars="vertical"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.477">
+
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/add1"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/addbutton"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.2"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textplayer3" />
+
+            <Button
+                android:id="@+id/add2"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/addbutton"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.20"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textplayer4" />
+
+            <Button
+                android:id="@+id/add3"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/addbutton"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.20"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textplayer5" />
+
+            <Button
+                android:id="@+id/add4"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/addbutton"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.20"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textplayer6" />
+
+            <Button
+                android:id="@+id/add5"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/addbutton"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.20"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textplayer7" />
+
+            <Button
+                android:id="@+id/add6"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/addbutton"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.20"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textplayer8" />
+
+            <Button
+                android:id="@+id/add7"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/addbutton"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.20"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textplayer9" />
+
+            <Button
+                android:id="@+id/add8"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/addbutton"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.20"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textplayer10" />
+
+
+            <EditText
+                android:id="@+id/textplayer1"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="30dp"
+                android:ems="10"
+                android:hint="Joueur 1"
+                android:inputType="textPersonName"
+                android:maxLength="15"
+                android:textColor="@android:color/white"
+                android:textColorHint="?android:attr/textColorHintInverse"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.35"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/textplayer2"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="24dp"
+                android:ems="10"
+                android:hint="Joueur 2"
+                android:inputType="textPersonName"
+                android:maxLength="15"
+                android:textColor="@android:color/white"
+                android:textColorHint="?android:attr/textColorHintInverse"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.35"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textplayer1" />
+
+            <EditText
+                android:id="@+id/textplayer3"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="24dp"
+                android:ems="10"
+                android:hint="Joueur 3"
+                android:inputType="textPersonName"
+                android:maxLength="15"
+                android:text=""
+                android:textColor="@android:color/white"
+                android:textColorHint="?android:attr/textColorHintInverse"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.35"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textplayer2" />
+
+            <EditText
+                android:id="@+id/textplayer4"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="24dp"
+                android:ems="10"
+                android:hint="Joueur 4"
+                android:inputType="textPersonName"
+                android:maxLength="15"
+                android:text=""
+                android:textColor="@android:color/white"
+                android:textColorHint="?android:attr/textColorHintInverse"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.35"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textplayer3" />
+
+            <EditText
+                android:id="@+id/textplayer5"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="24dp"
+                android:ems="10"
+                android:hint="Joueur 5"
+                android:inputType="textPersonName"
+                android:maxLength="15"
+                android:text=""
+                android:textColor="@android:color/white"
+                android:textColorHint="?android:attr/textColorHintInverse"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.35"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textplayer4" />
+
+            <EditText
+                android:id="@+id/textplayer6"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="24dp"
+                android:ems="10"
+                android:hint="Joueur 6"
+                android:inputType="textPersonName"
+                android:maxLength="15"
+                android:text=""
+                android:textColor="@android:color/white"
+                android:textColorHint="?android:attr/textColorHintInverse"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.35"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textplayer5" />
+
+            <EditText
+                android:id="@+id/textplayer7"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="24dp"
+                android:ems="10"
+                android:hint="Joueur 7"
+                android:inputType="textPersonName"
+                android:maxLength="15"
+                android:text=""
+                android:textColor="@android:color/white"
+                android:textColorHint="?android:attr/textColorHintInverse"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.35"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textplayer6" />
+
+            <EditText
+                android:id="@+id/textplayer8"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="24dp"
+                android:ems="10"
+                android:hint="Joueur 8"
+                android:inputType="textPersonName"
+                android:maxLength="15"
+                android:text=""
+                android:textColor="@android:color/white"
+                android:textColorHint="?android:attr/textColorHintInverse"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.35"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textplayer7" />
+
+            <EditText
+                android:id="@+id/textplayer9"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="24dp"
+                android:ems="10"
+                android:hint="Joueur 9"
+                android:inputType="textPersonName"
+                android:maxLength="15"
+                android:text=""
+                android:textColor="@android:color/white"
+                android:textColorHint="?android:attr/textColorHintInverse"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.35"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textplayer8" />
+
+            <EditText
+                android:id="@+id/textplayer10"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="24dp"
+                android:ems="10"
+                android:hint="Joueur 10"
+                android:inputType="textPersonName"
+                android:maxLength="15"
+                android:text=""
+                android:textColor="@android:color/white"
+                android:textColorHint="?android:attr/textColorHintInverse"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.35"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textplayer9" />
+
+            <ToggleButton
+                android:id="@+id/genre1"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/toggle_gender"
+                android:textColorHighlight="@color/colorAccent"
+                android:textOff=""
+                android:textOn=""
+                app:layout_constraintStart_toEndOf="@+id/textplayer1"
+                app:layout_constraintTop_toTopOf="@+id/textplayer1" />
+
+            <ToggleButton
+                android:id="@+id/genre2"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/toggle_gender"
+                android:textColorHighlight="@color/colorAccent"
+                android:textOff=""
+                android:textOn=""
+                app:layout_constraintStart_toEndOf="@+id/textplayer2"
+                app:layout_constraintTop_toTopOf="@+id/textplayer2"
+                app:srcCompat="@drawable/ic_launcher_round" />
+
+            <ToggleButton
+                android:id="@+id/genre3"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/toggle_gender"
+                android:textColorHighlight="@color/colorAccent"
+                android:textOff=""
+                android:textOn=""
+                android:visibility="gone"
+                app:layout_constraintStart_toEndOf="@+id/textplayer3"
+                app:layout_constraintTop_toTopOf="@+id/textplayer3" />
+
+            <ToggleButton
+                android:id="@+id/genre4"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/toggle_gender"
+                android:textColorHighlight="@color/colorAccent"
+                android:textOff=""
+                android:textOn=""
+                android:visibility="gone"
+                app:layout_constraintStart_toEndOf="@+id/textplayer4"
+                app:layout_constraintTop_toTopOf="@+id/textplayer4" />
+
+            <ToggleButton
+                android:id="@+id/genre5"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/toggle_gender"
+                android:textColorHighlight="@color/colorAccent"
+                android:textOff=""
+                android:textOn=""
+                android:visibility="gone"
+                app:layout_constraintStart_toEndOf="@+id/textplayer5"
+                app:layout_constraintTop_toTopOf="@+id/textplayer5" />
+
+            <ToggleButton
+                android:id="@+id/genre6"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/toggle_gender"
+                android:textColorHighlight="@color/colorAccent"
+                android:textOff=""
+                android:textOn=""
+                android:visibility="gone"
+                app:layout_constraintStart_toEndOf="@+id/textplayer6"
+                app:layout_constraintTop_toTopOf="@+id/textplayer6" />
+
+            <ToggleButton
+                android:id="@+id/genre7"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/toggle_gender"
+                android:textColorHighlight="@color/colorAccent"
+                android:textOff=""
+                android:textOn=""
+                android:visibility="gone"
+                app:layout_constraintStart_toEndOf="@+id/textplayer7"
+                app:layout_constraintTop_toTopOf="@+id/textplayer7" />
+
+            <ToggleButton
+                android:id="@+id/genre8"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/toggle_gender"
+                android:textColorHighlight="@color/colorAccent"
+                android:textOff=""
+                android:textOn=""
+                android:visibility="gone"
+                app:layout_constraintStart_toEndOf="@+id/textplayer8"
+                app:layout_constraintTop_toTopOf="@+id/textplayer8" />
+
+            <ToggleButton
+                android:id="@+id/genre9"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/toggle_gender"
+                android:textColorHighlight="@color/colorAccent"
+                android:textOff=""
+                android:textOn=""
+                android:visibility="gone"
+                app:layout_constraintStart_toEndOf="@+id/textplayer9"
+                app:layout_constraintTop_toTopOf="@+id/textplayer9" />
+
+            <ToggleButton
+                android:id="@+id/genre10"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/toggle_gender"
+                android:textColorHighlight="@color/colorAccent"
+                android:textOff=""
+                android:textOn=""
+                android:visibility="gone"
+                app:layout_constraintStart_toEndOf="@+id/textplayer10"
+                app:layout_constraintTop_toTopOf="@+id/textplayer10" />
+
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/textview"
+        android:gravity="center"
+        android:text="JOUEURS"
+        android:textSize="40dp"
+        app:layout_constraintBottom_toTopOf="@+id/scrollView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHeight_percent="0.15"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_percent="0.75" />
+
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/eventgif1"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif2"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif3"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif4"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif5"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif6"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif7"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif8"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif9"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif10"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif11"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif12"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif13"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif14"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif15"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif16"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif17"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif18"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/eventgif19"
+        android:duration="3500" />
+
+
+</animation-list>

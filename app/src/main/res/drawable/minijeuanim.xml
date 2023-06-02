@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/minijeugif1"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif2"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif3"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif4"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif5"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif6"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif7"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif8"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif9"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif10"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif11"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif12"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif13"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif14"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif15"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif16"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif17"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif18"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif19"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif20"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif21"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif22"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif23"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif24"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif25"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif26"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif27"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif28"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif29"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif30"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif31"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif32"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/minijeugif33"
+        android:duration="80" />
+    <item
+        android:drawable="@drawable/minijeugif34"
+        android:duration="800" />
+</animation-list>

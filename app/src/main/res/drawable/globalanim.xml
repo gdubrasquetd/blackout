@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/globalgif1"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif2"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif3"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif4"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif5"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif6"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif7"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif8"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif9"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif10"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif11"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif12"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif13"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif14"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif15"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif16"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif17"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif18"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif19"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif20"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif21"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif22"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif23"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif24"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif25"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif26"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif27"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif28"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif29"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif30"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/globalgif31"
+        android:duration="800" />
+
+</animation-list>

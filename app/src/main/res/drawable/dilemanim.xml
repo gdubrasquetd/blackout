@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/dilemmegif1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/dilemmegif2"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif3"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif4"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif5"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif6"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif7"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif8"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif9"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif10"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif11"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif12"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif13"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif14"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif15"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif16"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif17"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif18"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif19"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif20"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif21"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif22"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif23"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif24"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif25"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif26"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif27"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif28"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif29"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif30"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif31"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif32"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif33"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif34"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif35"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif36"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif37"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif38"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif39"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/dilemmegif40"
+        android:duration="800" />
+
+
+</animation-list>
