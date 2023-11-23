@@ -8,8 +8,8 @@ L'application permet également de selectionner les événements souhaités ains
 
 Il est également possible de rajouter des questions personalisées. 
 
-L'application est disponible sur le Play Store et est exclusivement en français. &nbsp;
-
+L'application est disponible sur le Play Store et est exclusivement en français. &nbsp; </br>
+http://play.google.com/store/apps/details?id=fr.guillaume.BlackOut
 
 
 https://github.com/gdubrasquetd/blackout/assets/58482474/707700f0-8612-4826-b41c-b35d2074b2ab
